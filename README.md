@@ -88,5 +88,3 @@ ranking.csv → Season-wise rankings and standings
   Spot trends
   Compare teams and players
   Make informed, data-driven observations
-
-Trends Dashboard
